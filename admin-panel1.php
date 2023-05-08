@@ -476,10 +476,7 @@ if(isset($_POST['docsub1']))
                     {
                       echo "Active";
                     }
-                    if(($row['userStatus']==1) && ($row['doctorStatus']==1)&& ($row['pStatus']==1))  
-                    {
-                      echo "Prescribe";
-                    }
+                    
                     if(($row['userStatus']==0) && ($row['doctorStatus']==1))  
                     {
                       echo "Cancelled by Patient";
