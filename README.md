@@ -54,16 +54,19 @@ RV Health Center Management System in php and mysql. This system has a ‘Home�
 
 'About Us' page (Fig 1.2)  allows us to get some more information about the quality and the services of the hospital.
 
-![image](https://user-images.githubusercontent.com/36665975/66569816-f4b41400-eb89-11e9-9377-d9ce53ded088.png)
+![Screenshot (23)](https://user-images.githubusercontent.com/102849877/236840468-3a849eaf-4732-475d-94d0-2b4d4680446f.png)
+![Screenshot (24)](https://user-images.githubusercontent.com/102849877/236840994-17779cf5-0cd7-4f6a-b471-8e7c3bf6eca8.png)
+
 
 ‘Contact’ page allows users to provide feedback or queries about the services of the hospital. Fig 1.3 shows the ‘Contact’ page.
 
 ![image](https://user-images.githubusercontent.com/36665975/66569890-157c6980-eb8a-11e9-9b2f-c0e8a6ef702e.png)
 
-The ‘Home’ page consists of 3 modules:
+The ‘Home’ page consists of 4 modules:
 1. Patient Module
 2. Doctor Module
 3. Admin Module
+4. ChatBot
 
 ### Patient Module:
 
